@@ -1,8 +1,8 @@
-🏋️‍♂️ Gym Website (Frontend Project)
+Gym Website (Frontend Project)
 
 This project was created as part of my ICT semester course and represents my first step into practical web development. The website is designed for a gym/fitness business and provides users with an engaging and interactive experience.
 
-🌟 Features
+Features
 
 Workout Plans – Multiple fitness plans displayed for users to explore and purchase.
 
@@ -12,7 +12,7 @@ BMI Calculator – An interactive tool where users can input their height and we
 
 Responsive Design – Built with HTML, CSS, and JavaScript, ensuring accessibility across devices.
 
-🚀 Learning Outcomes
+ Learning Outcomes
 
 Strengthened my skills in frontend development.
 
